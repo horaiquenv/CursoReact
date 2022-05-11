@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'DM Sans', sans-serif;
+  background: #66bfbf;
+}
+
+*:focus-visible {
+  border: none;
+  outline: none;
+}
+
+.first-color { 
+	background: #66bfbf; 
+}
+	
+.second-color { 
+	background: #eaf6f6; 
+}
+
+.third-color { 
+	background: #fcfefe; 
+}
+
+.fourth-color { 
+	background: #f76b8a; 
+}
